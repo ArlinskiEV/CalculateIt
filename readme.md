@@ -12,7 +12,6 @@
 ### Codewars
 
 ### Part I
-  - http://www.codewars.com/kata/cross-product-of-vectors
   - http://www.codewars.com/kata/sequence-generator-1
   - https://www.codewars.com/kata/base-conversion/
 ### Part II
