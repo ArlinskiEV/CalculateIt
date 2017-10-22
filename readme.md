@@ -12,7 +12,6 @@
 ### Codewars
 
 ### Part I
-  - http://www.codewars.com/kata/sequence-generator-1
   - https://www.codewars.com/kata/base-conversion/
 ### Part II
   - http://www.codewars.com/kata/closures-and-scopes 2/ http://www.codewars.com/kata/a-function-within-a-function
