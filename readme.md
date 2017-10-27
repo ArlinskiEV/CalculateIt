@@ -14,7 +14,6 @@
 ### next  
   
 
-  - http://www.codewars.com/kata/function-composition
   - http://www.codewars.com/kata/function-composition-1
   - http://www.codewars.com/kata/stringing-me-along
   - http://www.codewars.com/kata/i-spy
