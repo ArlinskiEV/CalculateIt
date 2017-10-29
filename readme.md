@@ -14,8 +14,6 @@
 ### next  
   
 
-  - http://www.codewars.com/kata/function-composition-1
-  - http://www.codewars.com/kata/stringing-me-along
   - http://www.codewars.com/kata/i-spy
   - http://www.codewars.com/kata/calculating-with-functions
   - http://www.codewars.com/kata/santaclausable-interface
