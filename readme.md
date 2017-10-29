@@ -13,7 +13,6 @@
   
 ### next  
 
-  - http://www.codewars.com/kata/replicate-new
   - http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
   - http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
 ### Optional
