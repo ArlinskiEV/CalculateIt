@@ -7,7 +7,6 @@
 
 
 ### Codewars
-  - https://www.codewars.com/kata/base-conversion/
 ### Optional
   - http://www.codewars.com/kata/lazy-evaluation
   - http://www.codewars.com/kata/tail-recursion-with-trampoline
