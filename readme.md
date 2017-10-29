@@ -10,7 +10,6 @@
 
 
   - https://www.codewars.com/kata/base-conversion/
-  - http://www.codewars.com/kata/new-with-apply
   
 ### next  
 
