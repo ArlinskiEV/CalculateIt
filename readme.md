@@ -12,8 +12,6 @@
   - https://www.codewars.com/kata/base-conversion/
   
 ### next  
-
-  - http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
   - http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
 ### Optional
   - http://www.codewars.com/kata/lazy-evaluation
