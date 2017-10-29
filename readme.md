@@ -10,14 +10,12 @@
 
 
   - https://www.codewars.com/kata/base-conversion/
+  - http://www.codewars.com/kata/new-with-apply
   
 ### next  
   
 
-  - http://www.codewars.com/kata/i-spy
-  - http://www.codewars.com/kata/calculating-with-functions
-  - http://www.codewars.com/kata/santaclausable-interface
-  - http://www.codewars.com/kata/new-with-apply
+
   - http://www.codewars.com/kata/extract-nested-object-reference
   - http://www.codewars.com/kata/array-helpers
   - http://www.codewars.com/kata/replicate-new
