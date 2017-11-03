@@ -1,4 +1,4 @@
-### This text is test for git :)
+### Codewars tasks
   - http://www.codewars.com/kata/opposite-number
   - http://www.codewars.com/kata/basic-mathematical-operations
   - http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
